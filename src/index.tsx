@@ -1,6 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import FishTools from './Fish/FishTools'
 
-const App = () => <div>Moo!</div>;
-
-ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(<FishTools/>, document.getElementById('root'));

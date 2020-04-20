@@ -1,0 +1,1199 @@
+{
+    "fishes": [
+        {
+            "name": "Pufferfish",
+            "id": 128,
+            "difficulty": 80,
+            "times": [
+                {
+                    "startTime": "1200",
+                    "endTime": "1600"
+                }
+            ],
+            "seasons": "summer",
+            "weather": "sunny"
+        },
+        {
+            "name": "Anchovy",
+            "id": 129,
+            "difficulty": 30,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "0200"
+                }
+            ],
+            "seasons": "spring fall",
+            "weather": "both"
+        },
+        {
+            "name": "Tuna",
+            "id": 130,
+            "difficulty": 70,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "1900"
+                }
+            ],
+            "seasons": "summer winter",
+            "weather": "both"
+        },
+        {
+            "name": "Sardine",
+            "id": 131,
+            "difficulty": 30,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "1900"
+                }
+            ],
+            "seasons": "spring summer fall winter",
+            "weather": "both"
+        },
+        {
+            "name": "Bream",
+            "id": 132,
+            "difficulty": 35,
+            "times": [
+                {
+                    "startTime": "1800",
+                    "endTime": "0200"
+                }
+            ],
+            "seasons": "spring summer fall winter",
+            "weather": "both"
+        },
+        {
+            "name": "Largemouth Bass",
+            "id": 136,
+            "difficulty": 50,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "1900"
+                }
+            ],
+            "seasons": "spring summer fall winter",
+            "weather": "both"
+        },
+        {
+            "name": "Smallmouth Bass",
+            "id": 137,
+            "difficulty": 28,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "0200"
+                }
+            ],
+            "seasons": "spring fall",
+            "weather": "both"
+        },
+        {
+            "name": "Rainbow Trout",
+            "id": 138,
+            "difficulty": 45,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "1900"
+                }
+            ],
+            "seasons": "summer",
+            "weather": "sunny"
+        },
+        {
+            "name": "Salmon",
+            "id": 139,
+            "difficulty": 50,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "1900"
+                }
+            ],
+            "seasons": "fall",
+            "weather": "both"
+        },
+        {
+            "name": "Walleye",
+            "id": 140,
+            "difficulty": 45,
+            "times": [
+                {
+                    "startTime": "1200",
+                    "endTime": "0200"
+                }
+            ],
+            "seasons": "fall winter",
+            "weather": "rainy"
+        },
+        {
+            "name": "Perch",
+            "id": 141,
+            "difficulty": 35,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "0200"
+                }
+            ],
+            "seasons": "winter",
+            "weather": "both"
+        },
+        {
+            "name": "Carp",
+            "id": 142,
+            "difficulty": 15,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "0200"
+                }
+            ],
+            "seasons": "spring summer fall",
+            "weather": "both"
+        },
+        {
+            "name": "Catfish",
+            "id": 143,
+            "difficulty": 75,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "0000"
+                }
+            ],
+            "seasons": "spring fall winter",
+            "weather": "rainy"
+        },
+        {
+            "name": "Pike",
+            "id": 144,
+            "difficulty": 60,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "0200"
+                }
+            ],
+            "seasons": "summer winter",
+            "weather": "both"
+        },
+        {
+            "name": "Sunfish",
+            "id": 145,
+            "difficulty": 30,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "1900"
+                }
+            ],
+            "seasons": "spring summer",
+            "weather": "sunny"
+        },
+        {
+            "name": "Red Mullet",
+            "id": 146,
+            "difficulty": 55,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "1900"
+                }
+            ],
+            "seasons": "summer winter",
+            "weather": "both"
+        },
+        {
+            "name": "Herring",
+            "id": 147,
+            "difficulty": 25,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "0200"
+                }
+            ],
+            "seasons": "spring winter",
+            "weather": "both"
+        },
+        {
+            "name": "Eel",
+            "id": 148,
+            "difficulty": 70,
+            "times": [
+                {
+                    "startTime": "1600",
+                    "endTime": "0200"
+                }
+            ],
+            "seasons": "spring fall",
+            "weather": "rainy"
+        },
+        {
+            "name": "Octopus",
+            "id": 149,
+            "difficulty": 95,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "1300"
+                }
+            ],
+            "seasons": "summer",
+            "weather": "both"
+        },
+        {
+            "name": "Red Snapper",
+            "id": 150,
+            "difficulty": 40,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "1900"
+                }
+            ],
+            "seasons": "summer fall winter",
+            "weather": "rainy"
+        },
+        {
+            "name": "Squid",
+            "id": 151,
+            "difficulty": 75,
+            "times": [
+                {
+                    "startTime": "1800",
+                    "endTime": "0200"
+                }
+            ],
+            "seasons": "winter",
+            "weather": "both"
+        },
+        {
+            "name": "Seaweed",
+            "id": 152,
+            "difficulty": 5,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "0200"
+                }
+            ],
+            "seasons": "spring summer fall winter",
+            "weather": "both"
+        },
+        {
+            "name": "Green Algae",
+            "id": 153,
+            "difficulty": 5,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "0200"
+                }
+            ],
+            "seasons": "spring summer fall winter",
+            "weather": "both"
+        },
+        {
+            "name": "Sea Cucumber",
+            "id": 154,
+            "difficulty": 40,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "1900"
+                }
+            ],
+            "seasons": "fall winter",
+            "weather": "both"
+        },
+        {
+            "name": "Super Cucumber",
+            "id": 155,
+            "difficulty": 80,
+            "times": [
+                {
+                    "startTime": "1800",
+                    "endTime": "0200"
+                }
+            ],
+            "seasons": "summer winter",
+            "weather": "both"
+        },
+        {
+            "name": "Ghostfish",
+            "id": 156,
+            "difficulty": 50,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "0200"
+                }
+            ],
+            "seasons": "spring summer fall winter",
+            "weather": "both"
+        },
+        {
+            "name": "White Algae",
+            "id": 157,
+            "difficulty": 5,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "0200"
+                }
+            ],
+            "seasons": "spring summer fall winter",
+            "weather": "both"
+        },
+        {
+            "name": "Stonefish",
+            "id": 158,
+            "difficulty": 65,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "0200"
+                }
+            ],
+            "seasons": "spring summer fall winter",
+            "weather": "both"
+        },
+        {
+            "name": "Crimsonfish",
+            "id": 159,
+            "difficulty": 95,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "2000"
+                }
+            ],
+            "seasons": "winter",
+            "weather": "both"
+        },
+        {
+            "name": "Angler",
+            "id": 160,
+            "difficulty": 85,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "0200"
+                }
+            ],
+            "seasons": "spring summer fall winter",
+            "weather": "both"
+        },
+        {
+            "name": "Ice Pip",
+            "id": 161,
+            "difficulty": 85,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "0200"
+                }
+            ],
+            "seasons": "spring summer fall winter",
+            "weather": "both"
+        },
+        {
+            "name": "Lava Eel",
+            "id": 162,
+            "difficulty": 90,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "0200"
+                }
+            ],
+            "seasons": "spring summer fall winter",
+            "weather": "both"
+        },
+        {
+            "name": "Legend",
+            "id": 163,
+            "difficulty": 110,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "2000"
+                }
+            ],
+            "seasons": "spring summer fall winter",
+            "weather": "rainy"
+        },
+        {
+            "name": "Sandfish",
+            "id": 164,
+            "difficulty": 65,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "2000"
+                }
+            ],
+            "seasons": "spring summer fall winter",
+            "weather": "both"
+        },
+        {
+            "name": "Scorpion Carp",
+            "id": 165,
+            "difficulty": 90,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "2000"
+                }
+            ],
+            "seasons": "spring summer fall winter",
+            "weather": "both"
+        },
+        {
+            "name": "Flounder",
+            "id": 267,
+            "difficulty": 50,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "2000"
+                }
+            ],
+            "seasons": "spring summer",
+            "weather": "both"
+        },
+        {
+            "name": "Midnight Carp",
+            "id": 269,
+            "difficulty": 55,
+            "times": [
+                {
+                    "startTime": "2200",
+                    "endTime": "0200"
+                }
+            ],
+            "seasons": "fall winter",
+            "weather": "both"
+        },
+        {
+            "name": "Mutant Carp",
+            "id": 682,
+            "difficulty": 80,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "0200"
+                }
+            ],
+            "seasons": "spring summer fall winter",
+            "weather": "both"
+        },
+        {
+            "name": "Sturgeon",
+            "id": 698,
+            "difficulty": 78,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "1900"
+                }
+            ],
+            "seasons": "summer winter",
+            "weather": "both"
+        },
+        {
+            "name": "Tiger Trout",
+            "id": 699,
+            "difficulty": 60,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "1900"
+                }
+            ],
+            "seasons": "spring summer fall winter",
+            "weather": "both"
+        },
+        {
+            "name": "Bullhead",
+            "id": 700,
+            "difficulty": 46,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "0200"
+                }
+            ],
+            "seasons": "spring summer fall winter",
+            "weather": "both"
+        },
+        {
+            "name": "Tilapia",
+            "id": 701,
+            "difficulty": 50,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "1400"
+                }
+            ],
+            "seasons": "summer fall",
+            "weather": "both"
+        },
+        {
+            "name": "Chub",
+            "id": 702,
+            "difficulty": 35,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "0200"
+                }
+            ],
+            "seasons": "spring summer fall winter",
+            "weather": "both"
+        },
+        {
+            "name": "Dorado",
+            "id": 704,
+            "difficulty": 78,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "1900"
+                }
+            ],
+            "seasons": "summer",
+            "weather": "both"
+        },
+        {
+            "name": "Albacore",
+            "id": 705,
+            "difficulty": 60,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "1100"
+                },
+                {
+                    "startTime": "1800",
+                    "endTime": "0200"
+                }
+            ],
+            "seasons": "fall winter",
+            "weather": "both"
+        },
+        {
+            "name": "Shad",
+            "id": 706,
+            "difficulty": 45,
+            "times": [
+                {
+                    "startTime": "0900",
+                    "endTime": "0200"
+                }
+            ],
+            "seasons": "spring summer fall",
+            "weather": "rainy"
+        },
+        {
+            "name": "Lingcod",
+            "id": 707,
+            "difficulty": 85,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "0200"
+                }
+            ],
+            "seasons": "winter",
+            "weather": "both"
+        },
+        {
+            "name": "Halibut",
+            "id": 708,
+            "difficulty": 50,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "1100"
+                },
+                {
+                    "startTime": "1900",
+                    "endTime": "0200"
+                }
+            ],
+            "seasons": "spring summer winter",
+            "weather": "both"
+        },
+        {
+            "name": "Woodskip",
+            "id": 734,
+            "difficulty": 50,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "0200"
+                }
+            ],
+            "seasons": "spring summer fall winter",
+            "weather": "both"
+        },
+        {
+            "name": "Glacierfish",
+            "id": 775,
+            "difficulty": 100,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "2000"
+                }
+            ],
+            "seasons": "winter",
+            "weather": "sunny"
+        },
+        {
+            "name": "Void Salmon",
+            "id": 795,
+            "difficulty": 80,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "0200"
+                }
+            ],
+            "seasons": "spring summer fall winter",
+            "weather": "both"
+        },
+        {
+            "name": "Slimejack",
+            "id": 796,
+            "difficulty": 55,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "0200"
+                }
+            ],
+            "seasons": "spring summer fall winter",
+            "weather": "both"
+        },
+        {
+            "name": "Midnight Squid",
+            "id": 798,
+            "difficulty": 55,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "0200"
+                }
+            ],
+            "seasons": "spring summer fall winter",
+            "weather": "both"
+        },
+        {
+            "name": "Spook Fish",
+            "id": 799,
+            "difficulty": 60,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "0200"
+                }
+            ],
+            "seasons": "spring summer fall winter",
+            "weather": "both"
+        },
+        {
+            "name": "Blobfish",
+            "id": 800,
+            "difficulty": 75,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "0200"
+                }
+            ],
+            "seasons": "spring summer fall winter",
+            "weather": "both"
+        }
+    ],
+    "locations": [
+        {
+            "name": "Farm",
+            "prettyName": "Farm",
+            "spring": [],
+            "summer": [],
+            "autumn": [],
+            "winter": []
+        },
+        {
+            "name": "UndergroundMine",
+            "prettyName": "Underground Mine",
+            "spring": [
+                153,
+                156,
+                157
+            ],
+            "summer": [
+                153,
+                156,
+                157
+            ],
+            "autumn": [
+                153,
+                156,
+                157
+            ],
+            "winter": [
+                153,
+                156,
+                157
+            ]
+        },
+        {
+            "name": "Desert",
+            "prettyName": "Desert",
+            "spring": [
+                153,
+                164,
+                165
+            ],
+            "summer": [
+                153,
+                164,
+                165
+            ],
+            "autumn": [
+                153,
+                164,
+                165
+            ],
+            "winter": [
+                153,
+                164,
+                165
+            ]
+        },
+        {
+            "name": "BusStop",
+            "prettyName": "Bus Stop",
+            "spring": [],
+            "summer": [],
+            "autumn": [],
+            "winter": []
+        },
+        {
+            "name": "Forest",
+            "prettyName": "Forest",
+            "spring": [
+                153,
+                145,
+                143,
+                137,
+                132,
+                706,
+                702
+            ],
+            "summer": [
+                153,
+                145,
+                144,
+                138,
+                132,
+                706,
+                704,
+                702
+            ],
+            "autumn": [
+                143,
+                153,
+                140,
+                139,
+                137,
+                132,
+                706,
+                702,
+                699,
+                269
+            ],
+            "winter": [
+                699,
+                143,
+                153,
+                144,
+                141,
+                140,
+                132,
+                707,
+                702,
+                269
+            ]
+        },
+        {
+            "name": "Town",
+            "prettyName": "Town",
+            "spring": [
+                137,
+                132,
+                143,
+                145,
+                153,
+                706
+            ],
+            "summer": [
+                138,
+                132,
+                144,
+                145,
+                153,
+                706
+            ],
+            "autumn": [
+                139,
+                137,
+                132,
+                140,
+                143,
+                153,
+                706,
+                699
+            ],
+            "winter": [
+                132,
+                140,
+                141,
+                143,
+                144,
+                153,
+                707,
+                699
+            ]
+        },
+        {
+            "name": "Mountain",
+            "prettyName": "Mountain",
+            "spring": [
+                136,
+                142,
+                153,
+                702,
+                700
+            ],
+            "summer": [
+                136,
+                142,
+                153,
+                138,
+                702,
+                700,
+                698
+            ],
+            "autumn": [
+                136,
+                140,
+                142,
+                153,
+                702,
+                700,
+                269
+            ],
+            "winter": [
+                136,
+                140,
+                141,
+                153,
+                707,
+                702,
+                700,
+                698,
+                269
+            ]
+        },
+        {
+            "name": "Backwoods",
+            "prettyName": "Backwoods",
+            "spring": [
+                136,
+                142,
+                153,
+                702,
+                700,
+                163
+            ],
+            "summer": [
+                136,
+                142,
+                153,
+                138,
+                702,
+                700,
+                698
+            ],
+            "autumn": [
+                136,
+                140,
+                142,
+                153,
+                702,
+                700
+            ],
+            "winter": [
+                136,
+                140,
+                141,
+                153,
+                707,
+                702,
+                700,
+                698
+            ]
+        },
+        {
+            "name": "Railroad",
+            "prettyName": "Railroad",
+            "spring": [],
+            "summer": [],
+            "autumn": [],
+            "winter": []
+        },
+        {
+            "name": "Beach",
+            "prettyName": "Beach",
+            "spring": [
+                129,
+                131,
+                147,
+                148,
+                152,
+                708,
+                267
+            ],
+            "summer": [
+                128,
+                130,
+                146,
+                149,
+                150,
+                152,
+                155,
+                708,
+                701,
+                267
+            ],
+            "autumn": [
+                129,
+                131,
+                148,
+                150,
+                152,
+                154,
+                155,
+                705,
+                701
+            ],
+            "winter": [
+                708,
+                130,
+                131,
+                146,
+                147,
+                150,
+                151,
+                152,
+                154,
+                705
+            ]
+        },
+        {
+            "name": "Woods",
+            "prettyName": "Woods",
+            "spring": [
+                734,
+                142,
+                143
+            ],
+            "summer": [
+                734,
+                142,
+                143
+            ],
+            "autumn": [
+                734,
+                142,
+                143
+            ],
+            "winter": [
+                734,
+                142,
+                143
+            ]
+        },
+        {
+            "name": "Sewer",
+            "prettyName": "Sewer",
+            "spring": [
+                142,
+                153,
+                157
+            ],
+            "summer": [
+                142,
+                153,
+                157
+            ],
+            "autumn": [
+                142,
+                153,
+                157
+            ],
+            "winter": [
+                142,
+                153,
+                157
+            ]
+        },
+        {
+            "name": "BugLand",
+            "prettyName": "Bug Land",
+            "spring": [
+                796,
+                142,
+                153,
+                157
+            ],
+            "summer": [
+                796,
+                142,
+                153,
+                157
+            ],
+            "autumn": [
+                796,
+                142,
+                153,
+                157
+            ],
+            "winter": [
+                796,
+                142,
+                153,
+                157
+            ]
+        },
+        {
+            "name": "WitchSwamp",
+            "prettyName": "Witch Swamp",
+            "spring": [
+                795,
+                153,
+                143,
+                157
+            ],
+            "summer": [
+                795,
+                153,
+                143,
+                157
+            ],
+            "autumn": [
+                795,
+                153,
+                143,
+                157
+            ],
+            "winter": [
+                795,
+                153,
+                143,
+                157
+            ]
+        },
+        {
+            "name": "fishingGame",
+            "prettyName": "fishing Game",
+            "spring": [
+                153,
+                145,
+                143,
+                137,
+                132,
+                706,
+                702
+            ],
+            "summer": [
+                153,
+                145,
+                143,
+                137,
+                132,
+                706,
+                702
+            ],
+            "autumn": [
+                153,
+                145,
+                143,
+                137,
+                132,
+                706,
+                702
+            ],
+            "winter": [
+                153,
+                145,
+                143,
+                137,
+                132,
+                706,
+                702
+            ]
+        },
+        {
+            "name": "Temp",
+            "prettyName": "Temp",
+            "spring": [
+                153,
+                145,
+                143,
+                137,
+                132,
+                706,
+                702
+            ],
+            "summer": [
+                153,
+                145,
+                143,
+                137,
+                132,
+                706,
+                702
+            ],
+            "autumn": [
+                153,
+                145,
+                143,
+                137,
+                132,
+                706,
+                702
+            ],
+            "winter": [
+                153,
+                145,
+                143,
+                137,
+                132,
+                706,
+                702
+            ]
+        }
+    ]
+}
