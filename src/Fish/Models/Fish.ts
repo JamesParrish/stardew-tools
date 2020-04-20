@@ -2,10 +2,10 @@ import { Times } from './Times';
 import { Location } from './Location';
 
 export class Fish {
-    name: String;
+    name: string;
     id: Number;
     difficulty: Number;
     times: Times[];
-    weather: String;
+    weather: string;
     locations: Location[];
 }

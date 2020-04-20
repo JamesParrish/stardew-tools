@@ -1194,6 +1194,77 @@
                 706,
                 702
             ]
+        },
+        {
+            "name": "Submarine",
+            "prettyName": "Submarine",
+            "spring": [],
+            "summer": [],
+            "autumn": [],
+            "winter": [
+                149,
+                154,
+                155,
+                798,
+                799,
+                800
+            ]
+        },
+        {
+            "name": "MinesLevel20",
+            "prettyName": "Mines Level 20",
+            "spring": [
+                156,
+                158
+            ],
+            "summer": [
+                156,
+                158
+            ],
+            "autumn": [
+                156,
+                158
+            ],
+            "winter": [
+                156,
+                158
+            ]
+        },
+        {
+            "name": "MinesLevel60",
+            "prettyName": "Mines Level 60",
+            "spring": [
+                156,
+                161
+            ],
+            "summer": [
+                156,
+                161
+            ],
+            "autumn": [
+                156,
+                161
+            ],
+            "winter": [
+                156,
+                161
+            ]
+        },
+        {
+            "name": "MinesLevel100",
+            "prettyName": "Mines Level 100",
+            "spring": [
+                162
+            ],
+            "summer": [
+                162
+            ],
+            "autumn": [
+                162
+            ],
+            "winter": [
+                162
+            ]
         }
     ]
 }

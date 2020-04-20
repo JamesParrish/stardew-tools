@@ -10,9 +10,9 @@ interface Props {
 
 interface State {
     fishes: Fish[];
-    season: String;
-    weather: String;
-    bundle: String;
+    season: string;
+    weather: string;
+    bundle: string;
 }
 
 class FishTools extends React.Component<Props, State> {
@@ -50,7 +50,10 @@ class FishTools extends React.Component<Props, State> {
                 {this.state.fishes && this.state.fishes.length > 0 &&
                     <div>
                         There are {this.state.fishes.length} fish
-                        <Filters setSeasonFilter={this.setSeasonFilter}/>
+                        <Filters setSeasonFilter={this.setSeasonFilter}
+                            season={this.state.season}
+                            weather={this.state.weather}
+                            bundle={this.state.bundle}/>
                         <div>Filters are: {this.state.season} / {this.state.weather} / {this.state.bundle}</div>
                         <Results fishes={this.state.fishes}
                             season={this.state.season}

@@ -24,7 +24,7 @@ class ResultRow extends React.Component<Props, State> {
         });
         
         if(this.props.fish.locations){
-            const seasons: String[] = [];
+            const seasons: string[] = [];
 
             this.props.fish.locations.forEach((l: Location) => {
                 locations.push(
@@ -32,13 +32,13 @@ class ResultRow extends React.Component<Props, State> {
                 );
 
                 if (l.seasons) {
-                    l.seasons.forEach((s: String) => {
+                    l.seasons.forEach((s: string) => {
                         seasons.push(s);
                     });
                 }
             });
             
-            [...new Set(seasons)].forEach((s: String) => {
+            [...new Set(seasons)].forEach((s: string) => {
                 uniqueSeasons.push(
                     <div>{s}</div>
                 );

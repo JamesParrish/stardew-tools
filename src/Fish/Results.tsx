@@ -4,9 +4,9 @@ import ResultRow from './ResultRow'
 
 interface Props {
     fishes: Fish[]
-    season: String;
-    weather: String;
-    bundle: String;
+    season: string;
+    weather: string;
+    bundle: string;
 }
 
 interface State {

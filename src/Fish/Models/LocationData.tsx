@@ -1,5 +1,5 @@
 export class LocationData {
-    prettyName: String;
+    prettyName: string;
     spring: Number[];
     summer: Number[];
     autumn: Number[];

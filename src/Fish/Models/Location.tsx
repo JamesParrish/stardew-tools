@@ -1,4 +1,4 @@
 export class Location {
-    name: String;
-    seasons: String[];
+    name: string;
+    seasons: string[];
 }

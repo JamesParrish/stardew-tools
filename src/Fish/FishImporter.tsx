@@ -3,10 +3,10 @@ import { Fish } from './Models/Fish';
 import { LocationData } from './Models/LocationData';
 import { Location } from './Models/Location';
 
-const spring: String = "Spring";
-const summer: String = "Summer";
-const autumn: String = "Autumn";
-const winter: String = "Winter";
+const spring: string = "Spring";
+const summer: string = "Summer";
+const autumn: string = "Autumn";
+const winter: string = "Winter";
 
 export function getFishes(): Fish[] {
     var data: Data = require("./data/FishData.json");
@@ -44,7 +44,7 @@ export function getFishes(): Fish[] {
     return fishes.sort((a,b) => a.name > b.name ? 1 : -1);
 }
 
-function addLocation(fish: Fish, locationName: String, season: String)
+function addLocation(fish: Fish, locationName: string, season: string)
 {
     if (!fish.locations) {
         fish.locations = [];
