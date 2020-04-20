@@ -30,7 +30,9 @@ class Results extends React.Component<Props, State> {
     }
 
     isFishBundleValid(fish: Fish): boolean {
-        return true;
+        return !this.props.bundle ||
+            this.props.bundle === "Any" && !!fish.bundle ||
+            this.props.bundle === fish.bundle;
     }
 
     render() {
@@ -50,7 +52,6 @@ class Results extends React.Component<Props, State> {
 
       return (
         <div>
-            <h3>Results</h3>
             <table>
                 <thead>
                     <tr>
@@ -59,6 +60,7 @@ class Results extends React.Component<Props, State> {
                         <td>Season</td>
                         <td>Weather</td>
                         <td>Time</td>
+                        <td>Bundle</td>
                     </tr>
                 </thead>
                 <tbody>{rows}</tbody>

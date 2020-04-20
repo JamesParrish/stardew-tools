@@ -11,7 +11,8 @@
                 }
             ],
             "seasons": "summer",
-            "weather": "sunny"
+            "weather": "sunny",
+            "bundle": "Specialty Fish Bundle"
         },
         {
             "name": "Anchovy",
@@ -24,7 +25,8 @@
                 }
             ],
             "seasons": "spring fall",
-            "weather": "both"
+            "weather": "both",
+            "bundle": ""
         },
         {
             "name": "Tuna",
@@ -37,7 +39,8 @@
                 }
             ],
             "seasons": "summer winter",
-            "weather": "both"
+            "weather": "both",
+            "bundle": "Ocean Fish Bundle"
         },
         {
             "name": "Sardine",
@@ -50,7 +53,8 @@
                 }
             ],
             "seasons": "spring summer fall winter",
-            "weather": "both"
+            "weather": "both",
+            "bundle": "Ocean Fish Bundle"
         },
         {
             "name": "Bream",
@@ -63,7 +67,8 @@
                 }
             ],
             "seasons": "spring summer fall winter",
-            "weather": "both"
+            "weather": "both",
+            "bundle": "Night Fishing Bundle"
         },
         {
             "name": "Largemouth Bass",
@@ -76,7 +81,8 @@
                 }
             ],
             "seasons": "spring summer fall winter",
-            "weather": "both"
+            "weather": "both",
+            "bundle": "Lake Fish Bundle"
         },
         {
             "name": "Smallmouth Bass",
@@ -89,7 +95,8 @@
                 }
             ],
             "seasons": "spring fall",
-            "weather": "both"
+            "weather": "both",
+            "bundle": ""
         },
         {
             "name": "Rainbow Trout",
@@ -102,7 +109,8 @@
                 }
             ],
             "seasons": "summer",
-            "weather": "sunny"
+            "weather": "sunny",
+            "bundle": ""
         },
         {
             "name": "Salmon",
@@ -115,7 +123,8 @@
                 }
             ],
             "seasons": "fall",
-            "weather": "both"
+            "weather": "both",
+            "bundle": ""
         },
         {
             "name": "Walleye",
@@ -128,7 +137,8 @@
                 }
             ],
             "seasons": "fall winter",
-            "weather": "rainy"
+            "weather": "rainy",
+            "bundle": "Night Fishing Bundle"
         },
         {
             "name": "Perch",
@@ -141,7 +151,8 @@
                 }
             ],
             "seasons": "winter",
-            "weather": "both"
+            "weather": "both",
+            "bundle": ""
         },
         {
             "name": "Carp",
@@ -154,7 +165,8 @@
                 }
             ],
             "seasons": "spring summer fall",
-            "weather": "both"
+            "weather": "both",
+            "bundle": "Lake Fish Bundle"
         },
         {
             "name": "Catfish",
@@ -167,7 +179,8 @@
                 }
             ],
             "seasons": "spring fall winter",
-            "weather": "rainy"
+            "weather": "rainy",
+            "bundle": "River Fish Bundle"
         },
         {
             "name": "Pike",
@@ -180,7 +193,8 @@
                 }
             ],
             "seasons": "summer winter",
-            "weather": "both"
+            "weather": "both",
+            "bundle": ""
         },
         {
             "name": "Sunfish",
@@ -193,7 +207,8 @@
                 }
             ],
             "seasons": "spring summer",
-            "weather": "sunny"
+            "weather": "sunny",
+            "bundle": "River Fish Bundle"
         },
         {
             "name": "Red Mullet",
@@ -206,7 +221,8 @@
                 }
             ],
             "seasons": "summer winter",
-            "weather": "both"
+            "weather": "both",
+            "bundle": ""
         },
         {
             "name": "Herring",
@@ -219,7 +235,8 @@
                 }
             ],
             "seasons": "spring winter",
-            "weather": "both"
+            "weather": "both",
+            "bundle": ""
         },
         {
             "name": "Eel",
@@ -232,7 +249,8 @@
                 }
             ],
             "seasons": "spring fall",
-            "weather": "rainy"
+            "weather": "rainy",
+            "bundle": "Night Fishing Bundle"
         },
         {
             "name": "Octopus",
@@ -245,7 +263,8 @@
                 }
             ],
             "seasons": "summer",
-            "weather": "both"
+            "weather": "both",
+            "bundle": ""
         },
         {
             "name": "Red Snapper",
@@ -258,7 +277,8 @@
                 }
             ],
             "seasons": "summer fall winter",
-            "weather": "rainy"
+            "weather": "rainy",
+            "bundle": "Ocean Fish Bundle"
         },
         {
             "name": "Squid",
@@ -271,7 +291,8 @@
                 }
             ],
             "seasons": "winter",
-            "weather": "both"
+            "weather": "both",
+            "bundle": ""
         },
         {
             "name": "Seaweed",
@@ -284,7 +305,8 @@
                 }
             ],
             "seasons": "spring summer fall winter",
-            "weather": "both"
+            "weather": "both",
+            "bundle": ""
         },
         {
             "name": "Green Algae",
@@ -297,7 +319,8 @@
                 }
             ],
             "seasons": "spring summer fall winter",
-            "weather": "both"
+            "weather": "both",
+            "bundle": ""
         },
         {
             "name": "Sea Cucumber",
@@ -310,7 +333,8 @@
                 }
             ],
             "seasons": "fall winter",
-            "weather": "both"
+            "weather": "both",
+            "bundle": ""
         },
         {
             "name": "Super Cucumber",
@@ -323,7 +347,8 @@
                 }
             ],
             "seasons": "summer winter",
-            "weather": "both"
+            "weather": "both",
+            "bundle": ""
         },
         {
             "name": "Ghostfish",
@@ -336,7 +361,8 @@
                 }
             ],
             "seasons": "spring summer fall winter",
-            "weather": "both"
+            "weather": "both",
+            "bundle": "Specialty Fish Bundle"
         },
         {
             "name": "White Algae",
@@ -349,7 +375,8 @@
                 }
             ],
             "seasons": "spring summer fall winter",
-            "weather": "both"
+            "weather": "both",
+            "bundle": ""
         },
         {
             "name": "Stonefish",
@@ -362,7 +389,8 @@
                 }
             ],
             "seasons": "spring summer fall winter",
-            "weather": "both"
+            "weather": "both",
+            "bundle": ""
         },
         {
             "name": "Crimsonfish",
@@ -375,7 +403,8 @@
                 }
             ],
             "seasons": "winter",
-            "weather": "both"
+            "weather": "both",
+            "bundle": ""
         },
         {
             "name": "Angler",
@@ -388,7 +417,8 @@
                 }
             ],
             "seasons": "spring summer fall winter",
-            "weather": "both"
+            "weather": "both",
+            "bundle": ""
         },
         {
             "name": "Ice Pip",
@@ -401,7 +431,8 @@
                 }
             ],
             "seasons": "spring summer fall winter",
-            "weather": "both"
+            "weather": "both",
+            "bundle": ""
         },
         {
             "name": "Lava Eel",
@@ -414,7 +445,8 @@
                 }
             ],
             "seasons": "spring summer fall winter",
-            "weather": "both"
+            "weather": "both",
+            "bundle": ""
         },
         {
             "name": "Legend",
@@ -427,7 +459,8 @@
                 }
             ],
             "seasons": "spring summer fall winter",
-            "weather": "rainy"
+            "weather": "rainy",
+            "bundle": ""
         },
         {
             "name": "Sandfish",
@@ -440,7 +473,8 @@
                 }
             ],
             "seasons": "spring summer fall winter",
-            "weather": "both"
+            "weather": "both",
+            "bundle": "Specialty Fish Bundle"
         },
         {
             "name": "Scorpion Carp",
@@ -453,7 +487,8 @@
                 }
             ],
             "seasons": "spring summer fall winter",
-            "weather": "both"
+            "weather": "both",
+            "bundle": ""
         },
         {
             "name": "Flounder",
@@ -466,7 +501,8 @@
                 }
             ],
             "seasons": "spring summer",
-            "weather": "both"
+            "weather": "both",
+            "bundle": ""
         },
         {
             "name": "Midnight Carp",
@@ -479,7 +515,8 @@
                 }
             ],
             "seasons": "fall winter",
-            "weather": "both"
+            "weather": "both",
+            "bundle": ""
         },
         {
             "name": "Mutant Carp",
@@ -492,7 +529,8 @@
                 }
             ],
             "seasons": "spring summer fall winter",
-            "weather": "both"
+            "weather": "both",
+            "bundle": ""
         },
         {
             "name": "Sturgeon",
@@ -505,7 +543,8 @@
                 }
             ],
             "seasons": "summer winter",
-            "weather": "both"
+            "weather": "both",
+            "bundle": "Lake Fish Bundle"
         },
         {
             "name": "Tiger Trout",
@@ -518,7 +557,8 @@
                 }
             ],
             "seasons": "spring summer fall winter",
-            "weather": "both"
+            "weather": "both",
+            "bundle": "River Fish Bundle"
         },
         {
             "name": "Bullhead",
@@ -531,7 +571,8 @@
                 }
             ],
             "seasons": "spring summer fall winter",
-            "weather": "both"
+            "weather": "both",
+            "bundle": "Lake Fish Bundle"
         },
         {
             "name": "Tilapia",
@@ -544,7 +585,8 @@
                 }
             ],
             "seasons": "summer fall",
-            "weather": "both"
+            "weather": "both",
+            "bundle": "Ocean Fish Bundle"
         },
         {
             "name": "Chub",
@@ -557,7 +599,8 @@
                 }
             ],
             "seasons": "spring summer fall winter",
-            "weather": "both"
+            "weather": "both",
+            "bundle": ""
         },
         {
             "name": "Dorado",
@@ -570,7 +613,8 @@
                 }
             ],
             "seasons": "summer",
-            "weather": "both"
+            "weather": "both",
+            "bundle": ""
         },
         {
             "name": "Albacore",
@@ -587,7 +631,8 @@
                 }
             ],
             "seasons": "fall winter",
-            "weather": "both"
+            "weather": "both",
+            "bundle": ""
         },
         {
             "name": "Shad",
@@ -600,7 +645,8 @@
                 }
             ],
             "seasons": "spring summer fall",
-            "weather": "rainy"
+            "weather": "rainy",
+            "bundle": "River Fish Bundle"
         },
         {
             "name": "Lingcod",
@@ -613,7 +659,8 @@
                 }
             ],
             "seasons": "winter",
-            "weather": "both"
+            "weather": "both",
+            "bundle": ""
         },
         {
             "name": "Halibut",
@@ -630,7 +677,8 @@
                 }
             ],
             "seasons": "spring summer winter",
-            "weather": "both"
+            "weather": "both",
+            "bundle": ""
         },
         {
             "name": "Woodskip",
@@ -643,7 +691,8 @@
                 }
             ],
             "seasons": "spring summer fall winter",
-            "weather": "both"
+            "weather": "both",
+            "bundle": "Specialty Fish Bundle"
         },
         {
             "name": "Glacierfish",
@@ -656,7 +705,8 @@
                 }
             ],
             "seasons": "winter",
-            "weather": "sunny"
+            "weather": "sunny",
+            "bundle": ""
         },
         {
             "name": "Void Salmon",
@@ -669,7 +719,8 @@
                 }
             ],
             "seasons": "spring summer fall winter",
-            "weather": "both"
+            "weather": "both",
+            "bundle": ""
         },
         {
             "name": "Slimejack",
@@ -682,7 +733,8 @@
                 }
             ],
             "seasons": "spring summer fall winter",
-            "weather": "both"
+            "weather": "both",
+            "bundle": ""
         },
         {
             "name": "Midnight Squid",
@@ -695,7 +747,8 @@
                 }
             ],
             "seasons": "spring summer fall winter",
-            "weather": "both"
+            "weather": "both",
+            "bundle": ""
         },
         {
             "name": "Spook Fish",
@@ -708,7 +761,8 @@
                 }
             ],
             "seasons": "spring summer fall winter",
-            "weather": "both"
+            "weather": "both",
+            "bundle": ""
         },
         {
             "name": "Blobfish",
@@ -721,7 +775,8 @@
                 }
             ],
             "seasons": "spring summer fall winter",
-            "weather": "both"
+            "weather": "both",
+            "bundle": ""
         }
     ],
     "locations": [

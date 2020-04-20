@@ -52,6 +52,7 @@ class ResultRow extends React.Component<Props, State> {
             <td>{uniqueSeasons}</td>
             <td>{this.props.fish.weather}</td>
             <td>{times}</td>
+            <td>{this.props.fish.bundle}</td>
         </tr>
       );
     }
