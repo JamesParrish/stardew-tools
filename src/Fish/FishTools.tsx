@@ -32,6 +32,14 @@ class FishTools extends React.Component<Props, State> {
         };
 
         console.log("There are " + this.state.fishes.length + " fish");
+
+        this.setSeasonFilter = this.setSeasonFilter.bind(this);
+    }
+
+    setSeasonFilter(e:React.FormEvent<HTMLSelectElement>) {
+        this.setState({
+            season: e.currentTarget.value,
+        });
     }
 
     render(): Object {
@@ -42,7 +50,8 @@ class FishTools extends React.Component<Props, State> {
                 {this.state.fishes && this.state.fishes.length > 0 &&
                     <div>
                         There are {this.state.fishes.length} fish
-                        <Filters/>
+                        <Filters setSeasonFilter={this.setSeasonFilter}/>
+                        <div>Filters are: {this.state.season} / {this.state.weather} / {this.state.bundle}</div>
                         <Results fishes={this.state.fishes}
                             season={this.state.season}
                             weather={this.state.weather}
