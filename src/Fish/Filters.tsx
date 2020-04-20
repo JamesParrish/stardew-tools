@@ -2,9 +2,10 @@ import * as React from 'react';
 
 interface Props {
     season: string;
-    setSeasonFilter: Function;
     weather: string;
     bundle: string;
+    setSeasonFilter: Function;
+    setWeatherFilter: Function;
 }
 
 interface State {
@@ -23,6 +24,12 @@ class Filters extends React.Component<Props, State> {
                     <option value="Summer">Summer</option>
                     <option value="Autumn">Autumn</option>
                     <option value="Winter">Winter</option>
+                </select>
+                <select defaultValue={this.props.weather}
+                    onChange={e =>this.props.setWeatherFilter(e)}>
+                    <option value="">Any</option>
+                    <option value="Rainy">Rainy</option>
+                    <option value="Sunny">Sunny</option>
                 </select>
             </form>
         </div>

@@ -24,7 +24,9 @@ class Results extends React.Component<Props, State> {
     }
 
     isFishWeatherValid(fish: Fish): boolean {
-        return true;
+        return !this.props.weather ||
+            (this.props.weather === "Rainy" && (fish.weather === "both" || fish.weather === "rainy")) ||
+            (this.props.weather === "Sunny" && (fish.weather === "both" || fish.weather === "sunny"));
     }
 
     isFishBundleValid(fish: Fish): boolean {

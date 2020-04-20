@@ -11,8 +11,6 @@ const winter: string = "Winter";
 export function getFishes(): Fish[] {
     var data: Data = require("./data/FishData.json");
 
-    console.log("There are " + data.fishes.length + " fish from the importer");
-
     if (!data.fishes || !data.locations) {
         return [];
     }
