@@ -14,6 +14,20 @@ interface State {
 
 class Results extends React.Component<Props, State> {
     isFishValid(fish: Fish): boolean {
+        return this.isFishSeasonValid(fish) &&
+            this.isFishWeatherValid(fish) &&
+            this.isFishBundleValid(fish);
+    }
+
+    isFishSeasonValid(fish: Fish): boolean {
+        return !this.props.season || (!!fish.locations && !!fish.locations.find(l => l.seasons.includes(this.props.season)));
+    }
+
+    isFishWeatherValid(fish: Fish): boolean {
+        return true;
+    }
+
+    isFishBundleValid(fish: Fish): boolean {
         return true;
     }
 
