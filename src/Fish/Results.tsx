@@ -14,7 +14,7 @@ interface State {
 
 class Results extends React.Component<Props, State> {
     isFishValid(fish: Fish): boolean {
-        return fish.locations && fish.locations.length > 1;
+        return true;
     }
 
     render() {

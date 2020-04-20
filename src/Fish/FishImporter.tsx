@@ -41,7 +41,7 @@ export function getFishes(): Fish[] {
         });
     });
 
-    return fishes;
+    return fishes.sort((a,b) => a.name > b.name ? 1 : -1);
 }
 
 function addLocation(fish: Fish, locationName: String, season: String)
