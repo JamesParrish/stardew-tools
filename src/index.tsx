@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import Moo from './moo/moo'
+import '../styles/styles.scss';
 
-const App = () => <div>Moo!</div>;
-
-ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(<Moo />, document.getElementById('root'));
