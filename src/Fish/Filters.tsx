@@ -1,9 +1,11 @@
 import * as React from 'react';
 
 interface Props {
+    location: string;
     season: string;
     weather: string;
     bundle: string;
+    setLocationFilter: Function;
     setSeasonFilter: Function;
     setWeatherFilter: Function;
     setBundleFilter: Function;
@@ -17,6 +19,30 @@ class Filters extends React.Component<Props, State> {
       return (
         <div>
             <form>
+                <label>
+                    Location:
+                    <select defaultValue={this.props.location}
+                        onChange={e =>this.props.setLocationFilter(e)}>
+                        <option value="">Any</option>
+                        <option value="Backwoods">Backwoods</option>
+                        <option value="Beach">Beach</option>
+                        <option value="Bug Land">Bug Land</option>
+                        <option value="Desert">Desert</option>
+                        <option value="Fishing Game">Fishing Game</option>
+                        <option value="Forest">Forest</option>
+                        <option value="Mines Level 20">Mines Level 20</option>
+                        <option value="Mines Level 60">Mines Level 60</option>
+                        <option value="Mines Level 100">Mines Level 100</option>
+                        <option value="Mountain">Mountain</option>
+                        <option value="Sewer">Sewer</option>
+                        <option value="Submarine">Submarine</option>
+                        <option value="Temp">Temp</option>
+                        <option value="Town">Town</option>
+                        <option value="Underground Mine">Underground Mine</option>
+                        <option value="Witch Swamp">Witch Swamp</option>
+                        <option value="Woods">Woods</option>
+                    </select>
+                </label>
                 <label>
                     Season:
                     <select defaultValue={this.props.season}

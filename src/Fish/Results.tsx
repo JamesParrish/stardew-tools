@@ -4,6 +4,7 @@ import ResultRow from './ResultRow'
 
 interface Props {
     fishes: Fish[]
+    location: string;
     season: string;
     weather: string;
     bundle: string;
@@ -14,9 +15,14 @@ interface State {
 
 class Results extends React.Component<Props, State> {
     isFishValid(fish: Fish): boolean {
-        return this.isFishSeasonValid(fish) &&
+        return this.isFishLocationValid(fish) &&
+            this.isFishSeasonValid(fish) &&
             this.isFishWeatherValid(fish) &&
             this.isFishBundleValid(fish);
+    }
+
+    isFishLocationValid(fish: Fish): boolean {
+        return !this.props.location || (!!fish.locations && !!fish.locations.find(l => l.name === this.props.location));
     }
 
     isFishSeasonValid(fish: Fish): boolean {
@@ -56,10 +62,10 @@ class Results extends React.Component<Props, State> {
                 <thead>
                     <tr>
                         <td>Name</td>
-                        <td>Location</td>
-                        <td>Season</td>
+                        <td>Location(s)</td>
+                        <td>Season(s)</td>
                         <td>Weather</td>
-                        <td>Time</td>
+                        <td>Times</td>
                         <td>Bundle</td>
                     </tr>
                 </thead>

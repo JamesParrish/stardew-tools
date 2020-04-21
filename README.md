@@ -4,6 +4,5 @@ A selection of Stardew Valley tools. Use `npm run dev` to build the solution and
 ## Fish Tools
 Tools for identifying which fish can be found and where
 
-### Planned Features
 - Filter by location, season, weather and bundle
 - View specific fish details
