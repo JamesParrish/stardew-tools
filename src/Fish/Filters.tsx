@@ -61,6 +61,8 @@ class Filters extends React.Component<Props, State> {
                         <option value="">Any</option>
                         <option value="Rainy">Rainy</option>
                         <option value="Sunny">Sunny</option>
+                        <option value="Rainy Only">Rainy Only</option>
+                        <option value="Sunny Only">Sunny Only</option>
                     </select>
                 </label>
                 <label>
