@@ -44,7 +44,7 @@ h3,
 h4,
 h5,
 h6 {
-  @extend %typography-h-style;
+  @extend %typography-hx-style;
 }
 
 h2 {
@@ -67,9 +67,10 @@ h6 {
   @extend %typography-eta-size;
 }
 
-%typography-h-style {
+%typography-hx-style {
   line-height: map-get($typography, "heading-line-height");
   font-family: map-get($typography, "heading-font-family");
+  @extend %typography-h-style;
 }
 
 %typography-h1-style {
@@ -77,6 +78,12 @@ h6 {
   font-family: map-get($typography, "heading-alt-font-family");
   font-weight: bold;
   text-transform: uppercase;
+  @extend %typography-h-style;
+}
+
+%typography-h-style {
+  width: 100%;
+  text-align: center;
 }
 
 %typography-beta-size {
