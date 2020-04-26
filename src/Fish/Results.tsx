@@ -26,7 +26,20 @@ class Results extends React.Component<Props, State> {
     }
 
     isFishSeasonValid(fish: Fish): boolean {
-        return !this.props.season || (!!fish.locations && !!fish.locations.find(l => l.seasons.includes(this.props.season)));
+        if (!this.props.season) { return true; }
+
+        if (!fish.locations) { return false; }
+
+        if (this.props.season.indexOf('(') === -1) {
+            return !!fish.locations.find(l => l.seasons.includes(this.props.season));
+        }
+
+        var seasons = this.props.season.match(/(.*) \(Not (.*)\)/);
+
+        if (seasons === null) { return true; }
+
+        return !!fish.locations.find(l => l.seasons.includes(seasons[1])) &&
+            !fish.locations.find(l => l.seasons.includes(seasons[2]));
     }
 
     isFishWeatherValid(fish: Fish): boolean {

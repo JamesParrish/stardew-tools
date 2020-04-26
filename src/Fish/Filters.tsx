@@ -52,6 +52,10 @@ class Filters extends React.Component<Props, State> {
                         <option value="Summer">Summer</option>
                         <option value="Autumn">Autumn</option>
                         <option value="Winter">Winter</option>
+                        <option value="Spring (Not Summer)">Spring (Not Summer)</option>
+                        <option value="Summer (Not Autumn)">Summer (Not Autumn)</option>
+                        <option value="Autumn (Not Winter)">Autumn (Not Winter)</option>
+                        <option value="Winter (Not Spring)">Winter (Not Spring)</option>
                     </select>
                 </label>
                 <label>
