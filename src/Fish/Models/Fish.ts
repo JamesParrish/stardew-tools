@@ -9,4 +9,5 @@ export class Fish {
     weather: string;
     bundle: string;
     locations: Location[];
+    seasons: string[];
 }

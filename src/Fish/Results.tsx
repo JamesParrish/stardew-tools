@@ -72,21 +72,19 @@ class Results extends React.Component<Props, State> {
         });
 
       return (
-        <div>
-            <table>
-                <thead>
-                    <tr>
-                        <td>Name</td>
-                        <td>Location(s)</td>
-                        <td>Season(s)</td>
-                        <td>Weather</td>
-                        <td>Times</td>
-                        <td>Bundle</td>
-                    </tr>
-                </thead>
-                <tbody>{rows}</tbody>
-            </table>
-        </div>
+        <table className="Results">
+            <thead>
+                <tr className="Results-Header">
+                    <td>Name</td>
+                    <td>Location(s)</td>
+                    <td>Season(s)</td>
+                    <td>Weather</td>
+                    <td>Times</td>
+                    <td>Bundle</td>
+                </tr>
+            </thead>
+            <tbody>{rows}</tbody>
+        </table>
       );
     }
   }

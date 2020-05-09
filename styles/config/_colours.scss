@@ -1,9 +1,14 @@
 $colours: (
   "black": #000,
   "white": #fff,
+  "brown": #e27a3e,
+  "light-brown": #ffd789,
+  "dark-blue": #014285,
+  "light-blue": #136898,
 );
 
-$page-colors: (
-  "page-background": map-get($colours, "black"),
-  "page-colour": map-get($colours, "white"),
+$page-colours: (
+  "page-background": map-get($colours, "dark-blue"),
+  "page-colour": map-get($colours, "light-brown"),
+  "alternate-background": map-get($colours, "light-blue"),
 );

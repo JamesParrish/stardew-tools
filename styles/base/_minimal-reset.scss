@@ -3,7 +3,7 @@ html {
     box-sizing: border-box;
     font-size: 16px;
     overflow-y: scroll;
-    -webkit-tap-highlight-color: rgba(map-get($page-colors, "page-colour"), 0);
+    -webkit-tap-highlight-color: rgba(map-get($page-colours, "page-colour"), 0);
 }
 
 *,

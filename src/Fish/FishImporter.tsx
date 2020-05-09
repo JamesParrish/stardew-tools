@@ -37,6 +37,10 @@ export function getFishes(): Fish[] {
                 addLocation(fish, location.prettyName, winter);
             }
         });
+
+        if (fish.seasons) {
+            fish.seasons = fish.seasons.sort(function(a, b) { return sortBySeason(a, b)});
+        }
     });
 
     return fishes.sort((a,b) => a.name > b.name ? 1 : -1);
@@ -44,6 +48,12 @@ export function getFishes(): Fish[] {
 
 function addLocation(fish: Fish, locationName: string, season: string)
 {
+    if (!fish.seasons) {
+        fish.seasons = [];
+    }
+
+    fish.seasons.push(season);
+
     if (!fish.locations) {
         fish.locations = [];
     }
@@ -59,4 +69,20 @@ function addLocation(fish: Fish, locationName: string, season: string)
         name: locationName,
         seasons: [season],
     });
+}
+
+function sortBySeason(a: string, b: string) : number{
+    // TODO - Sort seasons into order
+    // Use fish.seasons in results
+    // How the fuck does this sorting work?
+    // Example: catfish
+
+    // Idea:
+    const seasonOrder = [spring, summer, autumn, winter];
+    return seasonOrder.indexOf(a) > seasonOrder.indexOf(b) ? 1 : -1; // Check -1s and 1s
+
+    // Console testing code:
+    // const seasonOrder = ["spring", "summer", "autumn", "winter"]
+    // const moo = ["spring", "autumn", "winter", "summer"]
+    // const moo2 = moo.sort(function(a,b) { return seasonOrder.indexOf(a) > seasonOrder.indexOf(b)})
 }

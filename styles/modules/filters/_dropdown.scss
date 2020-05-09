@@ -1,0 +1,78 @@
+.Dropdown {  
+    option {
+        color: #f00;
+    }
+}
+//     position: relative;
+//     height: map-get($select, "height");
+//     overflow: hidden;
+  
+//     &::after {
+//       $arrow-size: map-get($select, "arrow-size");
+//       $height-leg: pythagoras(strip-unit($arrow-size));
+//       $margin-top: -#{$height-leg / 2}#{unit($arrow-size)};
+//       display: block;
+//       position: absolute;
+//       top: 50%;
+//       right: map-get($select, "padding");
+//       width: $arrow-size;
+//       height: $arrow-size;
+//       border: 0 solid currentColor;
+//       border-right-width: map-get($select, "arrow-border-width");
+//       border-bottom-width: map-get($select, "arrow-border-width");
+//       margin-top: $margin-top;
+//       transform-origin: 100% 0%;
+//       transform: rotate(45deg);
+//       content: "";
+//       pointer-events: none;
+//     }
+  
+//     &-ghost {
+//       border: map-get($select, "border-width") solid map-get($form-colors, "ghost-border");
+//       line-height: calc(#{map-get($select, "height")} - #{map-get($select, "border-width") * 2});
+//       color: map-get($form-colors, "ghost-color");
+//       transition: border-color duration(1);
+  
+//       &::after {
+//         border-color: map-get($form-colors, "ghost-border");
+//       }
+  
+//       &.invalid {
+//         border-color: map-get($form-colors, "ghost-border-invalid");
+//       }
+  
+//       &.valid {
+//         border-color: map-get($form-colors, "ghost-border-valid");
+//       }
+//     }
+  
+//     &-fill {
+//       line-height: map-get($select, "height");
+//       color: map-get($form-colors, "fill-color");
+//       background-color: map-get($form-colors, "fill-background");
+//       transition: background-color duration(1);
+  
+//       &::after {
+//         border-color: currentColor;
+//       }
+  
+//       &.invalid {
+//         background-color: map-get($form-colors, "fill-background-invalid");
+//       }
+  
+//       &.valid {
+//         background-color: map-get($form-colors, "fill-background-valid");
+//       }
+//     }
+  
+//     &_select {
+//       @include reset-select;
+//       height: 100%;
+//       padding-left: map-get($select, "padding");
+//       padding-right: (map-get($select, "padding") * 2) + map-get($select, "arrow-size");
+//       font-size: map-get($select, "font-size");
+//     }
+  
+//     
+
+  

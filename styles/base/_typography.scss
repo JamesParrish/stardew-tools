@@ -20,7 +20,7 @@ html {
   font-weight: map-get($typography, "base-font-weight");
   line-height: map-get($typography, "base-line-height");
   font-family: map-get($typography, "base-font-family");
-  color: map-get($page-colors, "page-colour");
+  color: map-get($page-colours, "page-colour");
 
   @each $breakpoint in $breakpoints {
     $name: nth($breakpoint, 1);

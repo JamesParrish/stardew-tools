@@ -10,7 +10,6 @@
                     "endTime": "1600"
                 }
             ],
-            "seasons": "summer",
             "weather": "sunny",
             "bundle": "Specialty Fish Bundle"
         },
@@ -24,7 +23,6 @@
                     "endTime": "0200"
                 }
             ],
-            "seasons": "spring fall",
             "weather": "both",
             "bundle": ""
         },
@@ -38,7 +36,6 @@
                     "endTime": "1900"
                 }
             ],
-            "seasons": "summer winter",
             "weather": "both",
             "bundle": "Ocean Fish Bundle"
         },
@@ -52,7 +49,6 @@
                     "endTime": "1900"
                 }
             ],
-            "seasons": "spring summer fall winter",
             "weather": "both",
             "bundle": "Ocean Fish Bundle"
         },
@@ -66,7 +62,6 @@
                     "endTime": "0200"
                 }
             ],
-            "seasons": "spring summer fall winter",
             "weather": "both",
             "bundle": "Night Fishing Bundle"
         },
@@ -80,7 +75,6 @@
                     "endTime": "1900"
                 }
             ],
-            "seasons": "spring summer fall winter",
             "weather": "both",
             "bundle": "Lake Fish Bundle"
         },
@@ -94,7 +88,6 @@
                     "endTime": "0200"
                 }
             ],
-            "seasons": "spring fall",
             "weather": "both",
             "bundle": ""
         },
@@ -108,7 +101,6 @@
                     "endTime": "1900"
                 }
             ],
-            "seasons": "summer",
             "weather": "sunny",
             "bundle": ""
         },
@@ -122,7 +114,6 @@
                     "endTime": "1900"
                 }
             ],
-            "seasons": "fall",
             "weather": "both",
             "bundle": ""
         },
@@ -136,7 +127,6 @@
                     "endTime": "0200"
                 }
             ],
-            "seasons": "fall winter",
             "weather": "rainy",
             "bundle": "Night Fishing Bundle"
         },
@@ -150,7 +140,6 @@
                     "endTime": "0200"
                 }
             ],
-            "seasons": "winter",
             "weather": "both",
             "bundle": ""
         },
@@ -164,7 +153,6 @@
                     "endTime": "0200"
                 }
             ],
-            "seasons": "spring summer fall",
             "weather": "both",
             "bundle": "Lake Fish Bundle"
         },
@@ -178,7 +166,6 @@
                     "endTime": "0000"
                 }
             ],
-            "seasons": "spring fall winter",
             "weather": "rainy",
             "bundle": "River Fish Bundle"
         },
@@ -192,7 +179,6 @@
                     "endTime": "0200"
                 }
             ],
-            "seasons": "summer winter",
             "weather": "both",
             "bundle": ""
         },
@@ -206,7 +192,6 @@
                     "endTime": "1900"
                 }
             ],
-            "seasons": "spring summer",
             "weather": "sunny",
             "bundle": "River Fish Bundle"
         },
@@ -220,7 +205,6 @@
                     "endTime": "1900"
                 }
             ],
-            "seasons": "summer winter",
             "weather": "both",
             "bundle": ""
         },
@@ -234,7 +218,6 @@
                     "endTime": "0200"
                 }
             ],
-            "seasons": "spring winter",
             "weather": "both",
             "bundle": ""
         },
@@ -248,7 +231,6 @@
                     "endTime": "0200"
                 }
             ],
-            "seasons": "spring fall",
             "weather": "rainy",
             "bundle": "Night Fishing Bundle"
         },
@@ -262,7 +244,6 @@
                     "endTime": "1300"
                 }
             ],
-            "seasons": "summer",
             "weather": "both",
             "bundle": ""
         },
@@ -276,7 +257,6 @@
                     "endTime": "1900"
                 }
             ],
-            "seasons": "summer fall winter",
             "weather": "rainy",
             "bundle": "Ocean Fish Bundle"
         },
@@ -290,7 +270,6 @@
                     "endTime": "0200"
                 }
             ],
-            "seasons": "winter",
             "weather": "both",
             "bundle": ""
         },
@@ -304,7 +283,6 @@
                     "endTime": "0200"
                 }
             ],
-            "seasons": "spring summer fall winter",
             "weather": "both",
             "bundle": ""
         },
@@ -318,7 +296,6 @@
                     "endTime": "0200"
                 }
             ],
-            "seasons": "spring summer fall winter",
             "weather": "both",
             "bundle": ""
         },
@@ -332,7 +309,6 @@
                     "endTime": "1900"
                 }
             ],
-            "seasons": "fall winter",
             "weather": "both",
             "bundle": ""
         },
@@ -346,7 +322,6 @@
                     "endTime": "0200"
                 }
             ],
-            "seasons": "summer winter",
             "weather": "both",
             "bundle": ""
         },
@@ -360,7 +335,6 @@
                     "endTime": "0200"
                 }
             ],
-            "seasons": "spring summer fall winter",
             "weather": "both",
             "bundle": "Specialty Fish Bundle"
         },
@@ -374,7 +348,6 @@
                     "endTime": "0200"
                 }
             ],
-            "seasons": "spring summer fall winter",
             "weather": "both",
             "bundle": ""
         },
@@ -388,7 +361,6 @@
                     "endTime": "0200"
                 }
             ],
-            "seasons": "spring summer fall winter",
             "weather": "both",
             "bundle": ""
         },
@@ -402,7 +374,6 @@
                     "endTime": "2000"
                 }
             ],
-            "seasons": "winter",
             "weather": "both",
             "bundle": ""
         },
@@ -416,7 +387,6 @@
                     "endTime": "0200"
                 }
             ],
-            "seasons": "spring summer fall winter",
             "weather": "both",
             "bundle": ""
         },
@@ -430,7 +400,6 @@
                     "endTime": "0200"
                 }
             ],
-            "seasons": "spring summer fall winter",
             "weather": "both",
             "bundle": ""
         },
@@ -444,7 +413,6 @@
                     "endTime": "0200"
                 }
             ],
-            "seasons": "spring summer fall winter",
             "weather": "both",
             "bundle": ""
         },
@@ -458,7 +426,6 @@
                     "endTime": "2000"
                 }
             ],
-            "seasons": "spring summer fall winter",
             "weather": "rainy",
             "bundle": ""
         },
@@ -472,7 +439,6 @@
                     "endTime": "2000"
                 }
             ],
-            "seasons": "spring summer fall winter",
             "weather": "both",
             "bundle": "Specialty Fish Bundle"
         },
@@ -486,7 +452,6 @@
                     "endTime": "2000"
                 }
             ],
-            "seasons": "spring summer fall winter",
             "weather": "both",
             "bundle": ""
         },
@@ -500,7 +465,6 @@
                     "endTime": "2000"
                 }
             ],
-            "seasons": "spring summer",
             "weather": "both",
             "bundle": ""
         },
@@ -514,7 +478,6 @@
                     "endTime": "0200"
                 }
             ],
-            "seasons": "fall winter",
             "weather": "both",
             "bundle": ""
         },
@@ -528,7 +491,6 @@
                     "endTime": "0200"
                 }
             ],
-            "seasons": "spring summer fall winter",
             "weather": "both",
             "bundle": ""
         },
@@ -542,7 +504,6 @@
                     "endTime": "1900"
                 }
             ],
-            "seasons": "summer winter",
             "weather": "both",
             "bundle": "Lake Fish Bundle"
         },
@@ -556,7 +517,6 @@
                     "endTime": "1900"
                 }
             ],
-            "seasons": "spring summer fall winter",
             "weather": "both",
             "bundle": "River Fish Bundle"
         },
@@ -570,7 +530,6 @@
                     "endTime": "0200"
                 }
             ],
-            "seasons": "spring summer fall winter",
             "weather": "both",
             "bundle": "Lake Fish Bundle"
         },
@@ -584,7 +543,6 @@
                     "endTime": "1400"
                 }
             ],
-            "seasons": "summer fall",
             "weather": "both",
             "bundle": "Ocean Fish Bundle"
         },
@@ -598,7 +556,6 @@
                     "endTime": "0200"
                 }
             ],
-            "seasons": "spring summer fall winter",
             "weather": "both",
             "bundle": ""
         },
@@ -612,7 +569,6 @@
                     "endTime": "1900"
                 }
             ],
-            "seasons": "summer",
             "weather": "both",
             "bundle": ""
         },
@@ -630,7 +586,6 @@
                     "endTime": "0200"
                 }
             ],
-            "seasons": "fall winter",
             "weather": "both",
             "bundle": ""
         },
@@ -644,7 +599,6 @@
                     "endTime": "0200"
                 }
             ],
-            "seasons": "spring summer fall",
             "weather": "rainy",
             "bundle": "River Fish Bundle"
         },
@@ -658,7 +612,6 @@
                     "endTime": "0200"
                 }
             ],
-            "seasons": "winter",
             "weather": "both",
             "bundle": ""
         },
@@ -676,7 +629,6 @@
                     "endTime": "0200"
                 }
             ],
-            "seasons": "spring summer winter",
             "weather": "both",
             "bundle": ""
         },
@@ -690,7 +642,6 @@
                     "endTime": "0200"
                 }
             ],
-            "seasons": "spring summer fall winter",
             "weather": "both",
             "bundle": "Specialty Fish Bundle"
         },
@@ -704,7 +655,6 @@
                     "endTime": "2000"
                 }
             ],
-            "seasons": "winter",
             "weather": "sunny",
             "bundle": ""
         },
@@ -718,7 +668,6 @@
                     "endTime": "0200"
                 }
             ],
-            "seasons": "spring summer fall winter",
             "weather": "both",
             "bundle": ""
         },
@@ -732,7 +681,6 @@
                     "endTime": "0200"
                 }
             ],
-            "seasons": "spring summer fall winter",
             "weather": "both",
             "bundle": ""
         },
@@ -746,7 +694,6 @@
                     "endTime": "0200"
                 }
             ],
-            "seasons": "spring summer fall winter",
             "weather": "both",
             "bundle": ""
         },
@@ -760,7 +707,6 @@
                     "endTime": "0200"
                 }
             ],
-            "seasons": "spring summer fall winter",
             "weather": "both",
             "bundle": ""
         },
@@ -774,7 +720,6 @@
                     "endTime": "0200"
                 }
             ],
-            "seasons": "spring summer fall winter",
             "weather": "both",
             "bundle": ""
         }

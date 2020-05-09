@@ -1,0 +1,23 @@
+.Results {  
+    width: 100%;
+    margin: 0 auto;
+    background-color: map-get($page-colours, "content-background");
+    border: 1px solid;
+
+    &-Row {
+        & td {
+            text-align: center;
+        }
+
+        &:nth-child(even) {
+            background-color: map-get($page-colours, "alternate-background");
+        }
+    }
+
+    &-Header {
+        & td {
+            text-align: center;
+            border-bottom: 1px solid;
+        }
+    }
+}

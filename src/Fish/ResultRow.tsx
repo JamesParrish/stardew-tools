@@ -38,7 +38,7 @@ class ResultRow extends React.Component<Props, State> {
                 }
             });
             
-            [...new Set(seasons)].forEach((s: string) => {
+            [...new Set(this.props.fish.seasons)].forEach((s: string) => {
                 uniqueSeasons.push(
                     <div>{s}</div>
                 );
@@ -46,7 +46,7 @@ class ResultRow extends React.Component<Props, State> {
         }
 
       return (
-        <tr>
+        <tr className="Results-Row">
             <td>{this.props.fish.name}</td>
             <td>{locations}</td>
             <td>{uniqueSeasons}</td>
