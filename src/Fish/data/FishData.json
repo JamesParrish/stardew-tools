@@ -726,14 +726,6 @@
     ],
     "locations": [
         {
-            "name": "Farm",
-            "prettyName": "Farm",
-            "spring": [],
-            "summer": [],
-            "autumn": [],
-            "winter": []
-        },
-        {
             "name": "UndergroundMine",
             "prettyName": "Underground Mine",
             "spring": [
@@ -780,14 +772,6 @@
                 164,
                 165
             ]
-        },
-        {
-            "name": "BusStop",
-            "prettyName": "Bus Stop",
-            "spring": [],
-            "summer": [],
-            "autumn": [],
-            "winter": []
         },
         {
             "name": "Forest",
@@ -956,14 +940,6 @@
             ]
         },
         {
-            "name": "Railroad",
-            "prettyName": "Railroad",
-            "spring": [],
-            "summer": [],
-            "autumn": [],
-            "winter": []
-        },
-        {
             "name": "Beach",
             "prettyName": "Beach",
             "spring": [
@@ -1113,86 +1089,6 @@
                 153,
                 143,
                 157
-            ]
-        },
-        {
-            "name": "fishingGame",
-            "prettyName": "Fishing Game",
-            "spring": [
-                153,
-                145,
-                143,
-                137,
-                132,
-                706,
-                702
-            ],
-            "summer": [
-                153,
-                145,
-                143,
-                137,
-                132,
-                706,
-                702
-            ],
-            "autumn": [
-                153,
-                145,
-                143,
-                137,
-                132,
-                706,
-                702
-            ],
-            "winter": [
-                153,
-                145,
-                143,
-                137,
-                132,
-                706,
-                702
-            ]
-        },
-        {
-            "name": "Temp",
-            "prettyName": "Temp",
-            "spring": [
-                153,
-                145,
-                143,
-                137,
-                132,
-                706,
-                702
-            ],
-            "summer": [
-                153,
-                145,
-                143,
-                137,
-                132,
-                706,
-                702
-            ],
-            "autumn": [
-                153,
-                145,
-                143,
-                137,
-                132,
-                706,
-                702
-            ],
-            "winter": [
-                153,
-                145,
-                143,
-                137,
-                132,
-                706,
-                702
             ]
         },
         {
