@@ -7,7 +7,7 @@ export class Fish {
     difficulty: Number;
     times: Times[];
     weather: string;
-    bundle: string;
+    bundles: string[];
     locations: Location[];
     seasons: string[];
 }

@@ -86,6 +86,7 @@ class Filters extends React.Component<Props, State> {
                         <option value="River Fish Bundle">River Fish Bundle</option>
                         <option value="Specialty Fish Bundle">Specialty Fish Bundle</option>
                         <option value="Master Fisher's Bundle">Master Fisher's Bundle</option>
+                        <option value="Quality Fish Bundle">Quality Fish Bundle</option>
                     </select>
                 </label>
             </form>

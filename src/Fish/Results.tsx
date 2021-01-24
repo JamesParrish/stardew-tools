@@ -52,8 +52,8 @@ class Results extends React.Component<Props, State> {
 
     isFishBundleValid(fish: Fish): boolean {
         return !this.props.bundle ||
-            this.props.bundle === "Any" && !!fish.bundle ||
-            this.props.bundle === fish.bundle;
+            this.props.bundle === "Any" && fish.bundles.length > 0 ||
+            fish.bundles.includes(this.props.bundle);
     }
 
     render() {
@@ -80,7 +80,7 @@ class Results extends React.Component<Props, State> {
                     <td>Season(s)</td>
                     <td>Weather</td>
                     <td>Times</td>
-                    <td>Bundle</td>
+                    <td>Bundle(s)</td>
                 </tr>
             </thead>
             <tbody>{rows}</tbody>

@@ -11,7 +11,8 @@
                 }
             ],
             "weather": "sunny",
-            "bundle": "Specialty Fish Bundle"
+            "bundles": ["Specialty Fish Bundle"]
+
         },
         {
             "name": "Anchovy",
@@ -24,7 +25,8 @@
                 }
             ],
             "weather": "both",
-            "bundle": ""
+            "bundles": []
+
         },
         {
             "name": "Tuna",
@@ -37,7 +39,8 @@
                 }
             ],
             "weather": "both",
-            "bundle": "Ocean Fish Bundle"
+            "bundles": ["Ocean Fish Bundle", "Quality Fish Bundle"]
+
         },
         {
             "name": "Sardine",
@@ -50,7 +53,8 @@
                 }
             ],
             "weather": "both",
-            "bundle": "Ocean Fish Bundle"
+            "bundles": ["Ocean Fish Bundle"]
+
         },
         {
             "name": "Bream",
@@ -63,7 +67,8 @@
                 }
             ],
             "weather": "both",
-            "bundle": "Night Fishing Bundle"
+            "bundles": ["Night Fishing Bundle"]
+
         },
         {
             "name": "Largemouth Bass",
@@ -76,7 +81,8 @@
                 }
             ],
             "weather": "both",
-            "bundle": "Lake Fish Bundle"
+            "bundles": ["Lake Fish Bundle", "Quality Fish Bundle"]
+
         },
         {
             "name": "Smallmouth Bass",
@@ -89,7 +95,8 @@
                 }
             ],
             "weather": "both",
-            "bundle": ""
+            "bundles": []
+
         },
         {
             "name": "Rainbow Trout",
@@ -102,7 +109,8 @@
                 }
             ],
             "weather": "sunny",
-            "bundle": ""
+            "bundles": []
+
         },
         {
             "name": "Salmon",
@@ -115,7 +123,8 @@
                 }
             ],
             "weather": "both",
-            "bundle": ""
+            "bundles": []
+
         },
         {
             "name": "Walleye",
@@ -128,7 +137,8 @@
                 }
             ],
             "weather": "rainy",
-            "bundle": "Night Fishing Bundle"
+            "bundles": ["Night Fishing Bundle", "Quality Fish Bundle"]
+
         },
         {
             "name": "Perch",
@@ -141,7 +151,8 @@
                 }
             ],
             "weather": "both",
-            "bundle": ""
+            "bundles": []
+
         },
         {
             "name": "Carp",
@@ -154,7 +165,8 @@
                 }
             ],
             "weather": "both",
-            "bundle": "Lake Fish Bundle"
+            "bundles": ["Lake Fish Bundle"]
+
         },
         {
             "name": "Catfish",
@@ -167,7 +179,8 @@
                 }
             ],
             "weather": "rainy",
-            "bundle": "River Fish Bundle"
+            "bundles": ["River Fish Bundle"]
+
         },
         {
             "name": "Pike",
@@ -180,7 +193,8 @@
                 }
             ],
             "weather": "both",
-            "bundle": ""
+            "bundles": []
+
         },
         {
             "name": "Sunfish",
@@ -193,7 +207,8 @@
                 }
             ],
             "weather": "sunny",
-            "bundle": "River Fish Bundle"
+            "bundles": ["River Fish Bundle"]
+
         },
         {
             "name": "Red Mullet",
@@ -206,7 +221,8 @@
                 }
             ],
             "weather": "both",
-            "bundle": ""
+            "bundles": []
+
         },
         {
             "name": "Herring",
@@ -219,7 +235,8 @@
                 }
             ],
             "weather": "both",
-            "bundle": ""
+            "bundles": []
+
         },
         {
             "name": "Eel",
@@ -232,7 +249,8 @@
                 }
             ],
             "weather": "rainy",
-            "bundle": "Night Fishing Bundle"
+            "bundles": ["Night Fishing Bundle"]
+
         },
         {
             "name": "Octopus",
@@ -245,7 +263,8 @@
                 }
             ],
             "weather": "both",
-            "bundle": "Master Fisher's Bundle"
+            "bundles": ["Master Fisher's Bundle"]
+
         },
         {
             "name": "Red Snapper",
@@ -258,7 +277,8 @@
                 }
             ],
             "weather": "rainy",
-            "bundle": "Ocean Fish Bundle"
+            "bundles": ["Ocean Fish Bundle"]
+
         },
         {
             "name": "Squid",
@@ -271,7 +291,8 @@
                 }
             ],
             "weather": "both",
-            "bundle": ""
+            "bundles": []
+
         },
         {
             "name": "Seaweed",
@@ -284,7 +305,8 @@
                 }
             ],
             "weather": "both",
-            "bundle": ""
+            "bundles": []
+
         },
         {
             "name": "Green Algae",
@@ -297,7 +319,8 @@
                 }
             ],
             "weather": "both",
-            "bundle": ""
+            "bundles": []
+
         },
         {
             "name": "Sea Cucumber",
@@ -310,7 +333,8 @@
                 }
             ],
             "weather": "both",
-            "bundle": ""
+            "bundles": []
+
         },
         {
             "name": "Super Cucumber",
@@ -323,7 +347,8 @@
                 }
             ],
             "weather": "both",
-            "bundle": ""
+            "bundles": []
+
         },
         {
             "name": "Ghostfish",
@@ -336,7 +361,8 @@
                 }
             ],
             "weather": "both",
-            "bundle": "Specialty Fish Bundle"
+            "bundles": ["Specialty Fish Bundle"]
+
         },
         {
             "name": "White Algae",
@@ -349,7 +375,8 @@
                 }
             ],
             "weather": "both",
-            "bundle": ""
+            "bundles": []
+
         },
         {
             "name": "Stonefish",
@@ -362,7 +389,8 @@
                 }
             ],
             "weather": "both",
-            "bundle": ""
+            "bundles": []
+
         },
         {
             "name": "Crimsonfish",
@@ -375,7 +403,8 @@
                 }
             ],
             "weather": "both",
-            "bundle": ""
+            "bundles": []
+
         },
         {
             "name": "Angler",
@@ -388,7 +417,8 @@
                 }
             ],
             "weather": "both",
-            "bundle": ""
+            "bundles": []
+
         },
         {
             "name": "Ice Pip",
@@ -401,7 +431,8 @@
                 }
             ],
             "weather": "both",
-            "bundle": ""
+            "bundles": []
+
         },
         {
             "name": "Lava Eel",
@@ -414,7 +445,8 @@
                 }
             ],
             "weather": "both",
-            "bundle": "Master Fisher's Bundle"
+            "bundles": ["Master Fisher's Bundle"]
+
         },
         {
             "name": "Legend",
@@ -427,7 +459,8 @@
                 }
             ],
             "weather": "rainy",
-            "bundle": ""
+            "bundles": []
+
         },
         {
             "name": "Sandfish",
@@ -440,7 +473,8 @@
                 }
             ],
             "weather": "both",
-            "bundle": "Specialty Fish Bundle"
+            "bundles": ["Specialty Fish Bundle"]
+
         },
         {
             "name": "Scorpion Carp",
@@ -453,7 +487,8 @@
                 }
             ],
             "weather": "both",
-            "bundle": "Master Fisher's Bundle"
+            "bundles": ["Master Fisher's Bundle"]
+
         },
         {
             "name": "Flounder",
@@ -466,7 +501,8 @@
                 }
             ],
             "weather": "both",
-            "bundle": ""
+            "bundles": []
+
         },
         {
             "name": "Midnight Carp",
@@ -479,7 +515,8 @@
                 }
             ],
             "weather": "both",
-            "bundle": ""
+            "bundles": []
+
         },
         {
             "name": "Mutant Carp",
@@ -492,7 +529,8 @@
                 }
             ],
             "weather": "both",
-            "bundle": ""
+            "bundles": []
+
         },
         {
             "name": "Sturgeon",
@@ -505,7 +543,8 @@
                 }
             ],
             "weather": "both",
-            "bundle": "Lake Fish Bundle"
+            "bundles": ["Lake Fish Bundle"]
+
         },
         {
             "name": "Tiger Trout",
@@ -518,7 +557,8 @@
                 }
             ],
             "weather": "both",
-            "bundle": "River Fish Bundle"
+            "bundles": ["River Fish Bundle"]
+
         },
         {
             "name": "Bullhead",
@@ -531,7 +571,8 @@
                 }
             ],
             "weather": "both",
-            "bundle": "Lake Fish Bundle"
+            "bundles": ["Lake Fish Bundle"]
+
         },
         {
             "name": "Tilapia",
@@ -544,7 +585,8 @@
                 }
             ],
             "weather": "both",
-            "bundle": "Ocean Fish Bundle"
+            "bundles": ["Ocean Fish Bundle"]
+
         },
         {
             "name": "Chub",
@@ -557,7 +599,8 @@
                 }
             ],
             "weather": "both",
-            "bundle": ""
+            "bundles": []
+
         },
         {
             "name": "Dorado",
@@ -570,7 +613,8 @@
                 }
             ],
             "weather": "both",
-            "bundle": ""
+            "bundles": []
+
         },
         {
             "name": "Albacore",
@@ -587,7 +631,8 @@
                 }
             ],
             "weather": "both",
-            "bundle": ""
+            "bundles": []
+
         },
         {
             "name": "Shad",
@@ -600,7 +645,8 @@
                 }
             ],
             "weather": "rainy",
-            "bundle": "River Fish Bundle"
+            "bundles": ["River Fish Bundle", "Quality Fish Bundle"]
+
         },
         {
             "name": "Lingcod",
@@ -613,7 +659,8 @@
                 }
             ],
             "weather": "both",
-            "bundle": ""
+            "bundles": []
+
         },
         {
             "name": "Halibut",
@@ -630,7 +677,8 @@
                 }
             ],
             "weather": "both",
-            "bundle": ""
+            "bundles": []
+
         },
         {
             "name": "Woodskip",
@@ -643,7 +691,8 @@
                 }
             ],
             "weather": "both",
-            "bundle": "Specialty Fish Bundle"
+            "bundles": ["Specialty Fish Bundle"]
+
         },
         {
             "name": "Glacierfish",
@@ -656,7 +705,8 @@
                 }
             ],
             "weather": "sunny",
-            "bundle": ""
+            "bundles": []
+
         },
         {
             "name": "Void Salmon",
@@ -669,7 +719,8 @@
                 }
             ],
             "weather": "both",
-            "bundle": ""
+            "bundles": []
+
         },
         {
             "name": "Slimejack",
@@ -682,7 +733,8 @@
                 }
             ],
             "weather": "both",
-            "bundle": ""
+            "bundles": []
+
         },
         {
             "name": "Midnight Squid",
@@ -695,7 +747,8 @@
                 }
             ],
             "weather": "both",
-            "bundle": ""
+            "bundles": []
+
         },
         {
             "name": "Spook Fish",
@@ -708,7 +761,8 @@
                 }
             ],
             "weather": "both",
-            "bundle": ""
+            "bundles": []
+
         },
         {
             "name": "Blobfish",
@@ -721,7 +775,8 @@
                 }
             ],
             "weather": "both",
-            "bundle": "Master Fisher's Bundle"
+            "bundles": ["Master Fisher's Bundle"]
+
         },
         {
             "name": "Stingray",
@@ -734,7 +789,8 @@
                 }
             ],
             "weather": "both",
-            "bundle": ""
+            "bundles": []
+
         },
         {
             "name": "Lionfish",
@@ -747,7 +803,8 @@
                 }
             ],
             "weather": "both",
-            "bundle": ""
+            "bundles": []
+
         },
         {
             "name": "Blue Discus",
@@ -760,7 +817,8 @@
                 }
             ],
             "weather": "both",
-            "bundle": ""
+            "bundles": []
+
         },
         {
             "name": "Son of Crimsonfish",
@@ -773,7 +831,8 @@
                 }
             ],
             "weather": "both",
-            "bundle": ""
+            "bundles": []
+
         },
         {
             "name": "Ms. Angler",
@@ -786,7 +845,8 @@
                 }
             ],
             "weather": "both",
-            "bundle": ""
+            "bundles": []
+
         },
         {
             "name": "Legend II",
@@ -799,7 +859,8 @@
                 }
             ],
             "weather": "rainy",
-            "bundle": ""
+            "bundles": []
+
         },
         {
             "name": "Radioactive Carp",
@@ -812,7 +873,8 @@
                 }
             ],
             "weather": "both",
-            "bundle": ""
+            "bundles": []
+
         },
         {
             "name": "Glacierfish Jr.",
@@ -825,7 +887,8 @@
                 }
             ],
             "weather": "sunny",
-            "bundle": ""
+            "bundles": []
+
         }
     ],
     "locations": [

@@ -45,6 +45,8 @@ class ResultRow extends React.Component<Props, State> {
             });
         }
 
+        const bundles = this.props.fish.bundles.join(', ');
+
       return (
         <tr className="Results-Row">
             <td>{this.props.fish.name}</td>
@@ -52,7 +54,7 @@ class ResultRow extends React.Component<Props, State> {
             <td>{uniqueSeasons}</td>
             <td>{this.props.fish.weather}</td>
             <td>{times}</td>
-            <td>{this.props.fish.bundle}</td>
+            <td>{bundles}</td>
         </tr>
       );
     }
