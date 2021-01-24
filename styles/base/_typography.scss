@@ -75,9 +75,7 @@ h6 {
 
 %typography-h1-style {
   line-height: map-get($typography, "heading-alt-line-height");
-  font-family: map-get($typography, "heading-alt-font-family");
-  font-weight: bold;
-  text-transform: uppercase;
+  font-family: map-get($typography, "heading-font-family");
   @extend %typography-h-style;
 }
 
