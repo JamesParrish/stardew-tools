@@ -30,13 +30,18 @@ class Filters extends React.Component<Props, State> {
                         <option value="Desert">Desert</option>
                         <option value="Fishing Game">Fishing Game</option>
                         <option value="Forest">Forest</option>
+                        <option value="Ginger Island North">Ginger Island North</option>
+                        <option value="Ginger Island South">Ginger Island South</option>
+                        <option value="Ginger Island West">Ginger Island West</option>
+                        <option value="Ginger Island South East">Ginger Island South East</option>
+                        <option value="Ginger Island Cave">Ginger Island Cave</option>
+                        <option value="Ginger Island Secret">Ginger Island Secret</option>
                         <option value="Mines Level 20">Mines Level 20</option>
                         <option value="Mines Level 60">Mines Level 60</option>
                         <option value="Mines Level 100">Mines Level 100</option>
                         <option value="Mountain">Mountain</option>
                         <option value="Sewer">Sewer</option>
                         <option value="Submarine">Submarine</option>
-                        <option value="Temp">Temp</option>
                         <option value="Town">Town</option>
                         <option value="Underground Mine">Underground Mine</option>
                         <option value="Witch Swamp">Witch Swamp</option>
@@ -80,6 +85,7 @@ class Filters extends React.Component<Props, State> {
                         <option value="Ocean Fish Bundle">Ocean Fish Bundle</option>
                         <option value="River Fish Bundle">River Fish Bundle</option>
                         <option value="Specialty Fish Bundle">Specialty Fish Bundle</option>
+                        <option value="Master Fisher's Bundle">Master Fisher's Bundle</option>
                     </select>
                 </label>
             </form>

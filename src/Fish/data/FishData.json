@@ -245,7 +245,7 @@
                 }
             ],
             "weather": "both",
-            "bundle": ""
+            "bundle": "Master Fisher's Bundle"
         },
         {
             "name": "Red Snapper",
@@ -414,7 +414,7 @@
                 }
             ],
             "weather": "both",
-            "bundle": ""
+            "bundle": "Master Fisher's Bundle"
         },
         {
             "name": "Legend",
@@ -453,7 +453,7 @@
                 }
             ],
             "weather": "both",
-            "bundle": ""
+            "bundle": "Master Fisher's Bundle"
         },
         {
             "name": "Flounder",
@@ -721,6 +721,110 @@
                 }
             ],
             "weather": "both",
+            "bundle": "Master Fisher's Bundle"
+        },
+        {
+            "name": "Stingray",
+            "id": 836,
+            "difficulty": 80,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "0200"
+                }
+            ],
+            "weather": "both",
+            "bundle": ""
+        },
+        {
+            "name": "Lionfish",
+            "id": 837,
+            "difficulty": 50,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "0200"
+                }
+            ],
+            "weather": "both",
+            "bundle": ""
+        },
+        {
+            "name": "Blue Discus",
+            "id": 838,
+            "difficulty": 60,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "0200"
+                }
+            ],
+            "weather": "both",
+            "bundle": ""
+        },
+        {
+            "name": "Son of Crimsonfish",
+            "id": 898,
+            "difficulty": 95,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "2000"
+                }
+            ],
+            "weather": "both",
+            "bundle": ""
+        },
+        {
+            "name": "Ms. Angler",
+            "id": 899,
+            "difficulty": 85,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "0200"
+                }
+            ],
+            "weather": "both",
+            "bundle": ""
+        },
+        {
+            "name": "Legend II",
+            "id": 900,
+            "difficulty": 110,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "2000"
+                }
+            ],
+            "weather": "rainy",
+            "bundle": ""
+        },
+        {
+            "name": "Radioactive Carp",
+            "id": 901,
+            "difficulty": 80,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "0200"
+                }
+            ],
+            "weather": "both",
+            "bundle": ""
+        },
+        {
+            "name": "Glacierfish Jr.",
+            "id": 902,
+            "difficulty": 100,
+            "times": [
+                {
+                    "startTime": "0600",
+                    "endTime": "2000"
+                }
+            ],
+            "weather": "sunny",
             "bundle": ""
         }
     ],
@@ -1068,6 +1172,214 @@
             ]
         },
         {
+            "name": "IslandNorth",
+            "prettyName": "Ginger Island North",
+            "spring": [
+                701,
+                838,
+                269
+            ],
+            "summer": [
+                701,
+                838,
+                269
+            ],
+            "autumn": [
+                701,
+                838,
+                269
+            ],
+            "winter": [
+                701,
+                838,
+                269
+            ]
+        },
+        {
+            "name": "IslandSouth",
+            "prettyName": "Ginger Island South",
+            "spring": [
+                155,
+                130,
+                128,
+                267,
+                837
+            ],
+            "summer": [
+                155,
+                130,
+                128,
+                267,
+                837
+            ],
+            "autumn": [
+                155,
+                130,
+                128,
+                267,
+                837
+            ],
+            "winter": [
+                155,
+                130,
+                128,
+                267,
+                837
+            ]
+        },
+        {
+            "name": "IslandWest",
+            "prettyName": "Ginger Island West",
+            "spring": [
+                149,
+                155,
+                130,
+                128,
+                267,
+                837,
+                701,
+                838,
+                269
+            ],
+            "summer": [
+                149,
+                155,
+                130,
+                128,
+                267,
+                837,
+                701,
+                838,
+                269
+            ],
+            "autumn": [
+                149,
+                155,
+                130,
+                128,
+                267,
+                837,
+                701,
+                838,
+                269
+            ],
+            "winter": [
+                149,
+                155,
+                130,
+                128,
+                267,
+                837,
+                701,
+                838,
+                269
+            ]
+        },
+        {
+            "name": "IslandSouthEast",
+            "prettyName": "Ginger Island South East",
+            "spring": [
+                155,
+                130,
+                128,
+                267,
+                837
+            ],
+            "summer": [
+                155,
+                130,
+                128,
+                267,
+                837
+            ],
+            "autumn": [
+                155,
+                130,
+                128,
+                267,
+                837
+            ],
+            "winter": [
+                155,
+                130,
+                128,
+                267,
+                837
+            ]
+        },
+        {
+            "name": "IslandSouthEastCave",
+            "prettyName": "Ginger Island Cave",
+            "spring": [
+                155,
+                130,
+                128,
+                267,
+                836
+            ],
+            "summer": [
+                155,
+                130,
+                128,
+                267,
+                836
+            ],
+            "autumn": [
+                155,
+                130,
+                128,
+                267,
+                836
+            ],
+            "winter": [
+                155,
+                130,
+                128,
+                267,
+                836
+            ]
+        },
+        {
+            "name": "IslandSecret",
+            "prettyName": "Ginger Island Secret",
+            "spring": [
+                836,
+                267,
+                151,
+                708,
+                146,
+                155,
+                130
+            ],
+            "summer": [
+                836,
+                267,
+                151,
+                708,
+                146,
+                155,
+                130
+            ],
+            "autumn": [
+                836,
+                267,
+                151,
+                708,
+                146,
+                155,
+                130
+            ],
+            "winter": [
+                836,
+                267,
+                151,
+                708,
+                146,
+                155,
+                130
+            ]
+        },
+        {
             "name": "MinesLevel20",
             "prettyName": "Mines Level 20",
             "spring": [
@@ -1110,6 +1422,22 @@
         {
             "name": "MinesLevel100",
             "prettyName": "Mines Level 100",
+            "spring": [
+                162
+            ],
+            "summer": [
+                162
+            ],
+            "autumn": [
+                162
+            ],
+            "winter": [
+                162
+            ]
+        },
+        {
+            "name": "GingerIsland",
+            "prettyName": "Ginger Island",
             "spring": [
                 162
             ],
